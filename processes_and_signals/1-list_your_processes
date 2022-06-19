@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# my script lists all my processes
+# This script can lists all my processes
 
 ps aux
