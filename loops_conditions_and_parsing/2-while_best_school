@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#script to output Best school 10 times using while loop
+COUNT=9
+while((COUNT>=0));do
+	echo "Best School"
+((COUNT--))
+done;
